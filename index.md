@@ -28,3 +28,14 @@ graph TD;
 ````
 
 [quadruple backsticks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) \(ie. \`\`\`\`\) were used above for specifying a code block \(or whatever it is officially called...\) to be able to show the triple backsticks necessary for specifying the mermaid code format in the diagram above. Special characters \(such as \(\)\) can be written in Markdown by placing a backslash before them: "\\" for example uses a backslash before backslash, in Markdown.
+
+# Creating a list
+How it's done:
+````
+- [ ] Uncompleted item 1
+- [x] Completed item 2
+````
+How it looks:
+
+- [ ] Uncompleted item 1
+- [x] Completed item 2
